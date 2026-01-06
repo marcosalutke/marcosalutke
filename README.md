@@ -1,6 +1,6 @@
 ### 👋 E aí! Sou o Marcos.
 
-Estou cursando **Engenharia de Software** e fazendo a transição clássica de "O cara da Infra/Suporte" para "O cara do Código".
+Estou cursando **Engenharia de Software** e fazendo a transição clássica de "Aquele que conserta o erro só de chegar perto" para "O cara do Código".
 
 Atualmente sou Estagiário na **Viscofan**, onde garanto que a infra não pegue fogo 🔥 e que os usuários não usem a lixeira como pasta de arquivos. No tempo livre, estou mergulhando em **Python** e desenvolvimento web/microcontroladores.
 
