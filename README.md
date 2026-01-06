@@ -1,8 +1,8 @@
 ### 👋 E aí! Sou o Marcos.
 
-Estou cursando **Engenharia de Software** e fazendo a transição clássica de "O cara da Infra/Suporte" para "O cara do Código".
+Estou cursando **Engenharia de Software** e fazendo a transição clássica de "O cara da Infra/Suporte" para "O cara que faz programa".
 
-Atualmente sou Estagiário na **Viscofan**, onde garanto que a infra não pegue fogo 🔥. No tempo livre, estou mergulhando em **Python** e desenvolvimento web.
+Atualmente sou Estagiário na **Viscofan**, onde garanto que a infra não pegue fogo 🔥e os usuários não usem a lixeira como pasta de arquivos. No tempo livre, estou mergulhando em **Python** e desenvolvimento web.
 
 **O que estou aprontando:**
 - 🔭 Focando em Python para automação e backend.
@@ -14,8 +14,7 @@ Atualmente sou Estagiário na **Viscofan**, onde garanto que a infra não pegue 
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Marcos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
 </div>
 
 ---
