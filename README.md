@@ -6,7 +6,7 @@ Atualmente sou Estagiário na **Viscofan**, onde garanto que a infra não pegue 
 
 **O que estou aprontando:**
 - 🔭 Focando em Python para automação e backend.
-- 🌱 Aprendendo que `git push --force` é perigoso (brincadeira... ou não).
+- 🌱 Aprendendo que `git push --force` é perigoso :) .
 - 🚗 Quando não estou codando, estou provavelmente mexendo no meu carro ou inventando moda com eletrônica.
 
 **Minha caixa de ferramentas:**
