@@ -17,5 +17,11 @@ Atualmente sou Estagiário na **Viscofan**, onde garanto que a infra não pegue 
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<div align="center">
+  <a href="https://marcosalutke.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visite_Meu_Portfólio-00e0ff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfólio Marcos Lutke">
+  </a>
+</div>
+
 ---
 *Dê uma olhada nos meus repositórios (tem uns forks legais por aí).* 🚀
